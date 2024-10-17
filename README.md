@@ -24,7 +24,7 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 Create two deployment workflows using GitHub Actions and Microsoft Azure.
 
 - **Who is this for**: Developers, DevOps Engineers, new GitHub users, students, and teams.
-- **What you'll learn**: We'll learn how to create a workflow that enables Continuous Delivery using GitHub Actions and Microsoft Azure.
+- **What you'll learn**: We'll learn how to create a woasdfrkflow that enables Continuous Delivery using GitHub Actions and Microsoft Azure.
 - **What you'll build**: We will create two deployment workflows - the first workflow to deploy to staging based on a label and the second workflow to deploy to production based on merging to main.
 - **Prerequisites**: Before you start, you should be familiar with GitHub, GitHub Actions, and Continuous Integration with GitHub Actions.
 - **How long**: This course takes less than 2 hours to complete.
